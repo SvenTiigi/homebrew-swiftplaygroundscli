@@ -1,4 +1,4 @@
-class SwiftPlaygroundsCLI < Formula
+class Swiftplaygroundscli < Formula
     desc "Easily generate Swift Playgrounds from your command line 👨‍💻"
     homepage "https://github.com/SvenTiigi/SwiftPlaygroundsCLI"
     url "https://github.com/SvenTiigi/SwiftPlaygroundsCLI/archive/1.0.0.tar.gz"
