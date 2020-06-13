@@ -1,8 +1,8 @@
 class Swiftplaygroundscli < Formula
     desc "Easily generate Swift Playgrounds from your command line 👨‍💻"
     homepage "https://github.com/SvenTiigi/SwiftPlaygroundsCLI"
-    url "https://github.com/SvenTiigi/SwiftPlaygroundsCLI/archive/1.0.1.tar.gz"
-    sha256 "86a5bfa634e52da306fa4f4ab756741bb057c336505e460553fafaac48a49d6f"
+    url "https://github.com/SvenTiigi/SwiftPlaygroundsCLI/archive/1.0.2.tar.gz"
+    sha256 "e364b2b294867e4bbc351dbe985912e2eb4e9410cdb2fcd9a7c1a852db152290"
     head "https://github.com/SvenTiigi/SwiftPlaygroundsCLI"
 
     depends_on :xcode => ["8.0", :build]
